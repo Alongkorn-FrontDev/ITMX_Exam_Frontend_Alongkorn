@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": "1695232276858",
+      "title": "SAMBA OG SHOES",
+      "desc": "My product test My product test My product test",
+      "image": "Samba_OG_Shoes_White_B75806_01_standard.avif",
+      "date": "2023-09-20T17:51:16.858Z",
+      "price": 40,
+      "countInStock": 3
+    },
+    {
+      "id": "1695233266265",
+      "title": "SAMBA OG SHOES",
+      "desc": "My product test My product test My product test",
+      "image": "Tobacco_Gruen_Shoes_Brown_GW8206_01_standard.avif",
+      "date": "2023-09-20T18:07:46.265Z",
+      "price": 40,
+      "countInStock": 6
+    },
+    {
+      "id": "1695233283306",
+      "title": "GAZELLE INDOOR LOW TRAINERS",
+      "desc": "My product test My product test My product test",
+      "image": "Samba_OG_Shoes_Black_B75807_02_standard_hover.avif",
+      "date": "2023-09-20T18:08:03.306Z",
+      "price": 40,
+      "countInStock": 2
+    },
+    {
+      "id": "1695265471487",
+      "title": "GAZELLE INDOOR LOW TRAINERS",
+      "desc": "My product test My product test My product test",
+      "image": "Samba_OG_Shoes_White_B75806_01_standard.avif",
+      "price": 40,
+      "countInStock": 3,
+      "date": "2023-09-21T03:04:31.487Z"
+    },
+    {
+      "id": "1695265906347",
+      "title": "SAMBA OG SHOES",
+      "desc": "My product test My product test My product test",
+      "image": "Tobacco_Gruen_Shoes_Brown_GW8206_01_standard.avif",
+      "price": 1200,
+      "countInStock": 0,
+      "date": "2023-09-21T03:11:46.347Z"
+    },
+    {
+      "id": "1695269432275",
+      "title": "My product test with price",
+      "desc": "My product test My product test My product test with price",
+      "image": "Samba_OG_Shoes_Black_B75807_02_standard_hover.avif",
+      "price": 40,
+      "countInStock": 1,
+      "date": "2023-09-21T04:10:32.275Z"
+    },
+    {
+      "id": "1695289478165",
+      "title": "GAZELLE INDOOR LOW TRAINERS",
+      "desc": "My product test My product test My product test",
+      "image": "Samba_OG_Shoes_White_B75806_01_standard.avif",
+      "price": 340,
+      "countInStock": 1,
+      "date": "2023-09-21T09:44:38.165Z"
+    }
+  ]
+}
