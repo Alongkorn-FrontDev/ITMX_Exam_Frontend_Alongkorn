@@ -1,6 +1,19 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## ภาษาที่ใช้
+
+Next
+Typscript
+
+## Node version 
+
+18.4.0
+
 ## Getting Started
+
+npm i
+# or
+yarn
 
 First, run the development server:
 
